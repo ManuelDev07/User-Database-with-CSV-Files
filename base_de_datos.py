@@ -1,5 +1,4 @@
 import csv
-import email
 
 #Realizando el REGISTRO DEL USUARIO y subiendolo al CSV:
 def registrarUsuario():
